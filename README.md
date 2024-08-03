@@ -1,4 +1,5 @@
 # AWS Lambda Function Deployment
+![Logo](logo.jpeg) 
 
 This project deploys a simple AWS Lambda function using Terraform.
 
